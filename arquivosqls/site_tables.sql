@@ -1,5 +1,12 @@
-ALTER TABLE accounts ADD email varchar(100) NOT NULL DEFAULT '';
-ALTER TABLE accounts ADD created_time int(11) DEFAULT NULL;
+CREATE TABLE accounts (
+  password varchar(30) NOT NULL,
+  lastactive int(11) DEFAULT NULL,
+  lastIP int(11) NOT NULL,
+  email varchar(100) NOT NULL,
+  created_time int(11) DEFAULT NULL,
+  access_level int(11) DEFAULT NULL,
+  login varchar(30) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 
 SET FOREIGN_KEY_CHECKS=0;
 
