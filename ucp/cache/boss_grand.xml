@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boss>
+<configs>
+<atualstudio>Cache script by Atualstudio.com</atualstudio>
+<updated>1638681376</updated>
+</configs>
+<line>
+<name>Queen Ant</name>
+<level>80</level>
+<status>Muerto</status>
+<respawn>08/12/2021 13:08</respawn>
+</line>
+<line>
+<name>Core</name>
+<level>80</level>
+<status>Muerto</status>
+<respawn>08/12/2021 09:18</respawn>
+</line>
+<line>
+<name>Orfen</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Gigantic Chaos Golem</name>
+<level>52</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Antharas</name>
+<level>85</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Frintezza</name>
+<level>85</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Valakas</name>
+<level>85</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Baium</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Zaken</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Scarlet van Halisha</name>
+<level>85</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Scarlet van Halisha</name>
+<level>85</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Sailren</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+</boss>

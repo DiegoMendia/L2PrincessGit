@@ -1,0 +1,46 @@
+18/04/2020 12:36: RAW POSTs incompletos! - Dump: Array
+(
+)
+
+18/04/2020 12:39: RAW POSTs incompletos! - Dump: Array
+(
+)
+
+19/04/2020 18:19: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 85CFD9-CCA1D3A1D395-F7744C4FA0B4-F4A77B
+  [notificationType] => transaction
+)
+
+19/04/2020 18:19: RAW POSTs incompletos! - Dump: Array
+(
+  [VendedorEmail] => maicommedium@hotmail.com
+  [TransacaoID] => CBB17B2CFAC0472884C7F432F1B6D8C5
+  [Referencia] => 13
+  [Extras] => 0,00
+  [TipoFrete] => FR
+  [ValorFrete] => 0,00
+  [Anotacao] => 
+  [DataTransacao] => 19/04/2020 18:15:27
+  [TipoPagamento] => Cartão de Crédito
+  [StatusTransacao] => Aprovado
+  [CliNome] => CARLOS HENRIQUE KRE
+  [CliEmail] => carloskrecife250@gmail.com
+  [CliEndereco] => AVENIDA GONZAGA MARANHAO
+  [CliNumero] => 479
+  [CliComplemento] => CASA
+  [CliBairro] => Prazeres
+  [CliCidade] => JABOATAO DOS GUARARAPES
+  [CliEstado] => PE
+  [CliCEP] => 54335090
+  [CliTelefone] => 81 999111702
+  [NumItens] => 1
+  [Parcelas] => 1
+  [ProdID_1] => 1
+  [ProdDescricao_1] => Fatura 13 - 20 Ticket Donate
+  [ProdValor_1] => 1,00
+  [ProdQuantidade_1] => 20
+  [ProdFrete_1] => 0,00
+  [ProdExtras_1] => 0,00
+)
+

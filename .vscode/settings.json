@@ -1,0 +1,31 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost:8080",
+            "port": 3307,
+            "driver": "MySQL",
+            "username": "root",
+            "name": "localhost",
+            "database": "l2j"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "localhost",
+            "database": "sakila",
+            "username": "root",
+            "password": "root"
+        }
+    ]
+}
