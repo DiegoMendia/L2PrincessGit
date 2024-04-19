@@ -95,7 +95,7 @@ echo "
 					
 						<div class='loginarea'>
 							<img src='imgs/nm/loader.gif' style='width:0;height:0;display:none;' />
-							<form id='login_form' action='<?php echo (file_exists('ucp/engine/login.php') ? "./ucp/?engine=login&fromsite" : "./?engine=login"); ?>' method='POST'>
+							<form id='login_form' action='<?php echo (file_exists('/engine/login.php') ? "./?engine=login&fromsite" : "./?engine=login"); ?>' method='POST'>
 								<?php
 								$_SESSION['lkey'] = md5(time().rand(100,999).$uniqueKey); echo "<input type='hidden' name='lkey' value='".$_SESSION['lkey']."' />";
 								if(isset($_GET['lerror'])) {
